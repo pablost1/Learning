@@ -1,0 +1,15 @@
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.csproj.AssemblyReference.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.AssemblyInfoInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.AssemblyInfo.cs
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.csproj.CoreCompileInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\bin\Debug\net6.0\sucessor_par.exe
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\bin\Debug\net6.0\sucessor_par.deps.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\bin\Debug\net6.0\sucessor_par.runtimeconfig.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\bin\Debug\net6.0\sucessor_par.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\bin\Debug\net6.0\ref\sucessor_par.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\bin\Debug\net6.0\sucessor_par.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\ref\sucessor_par.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\sucessor_par\obj\Debug\net6.0\sucessor_par.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\bin\Debug\net6.0\xenlongao.exe
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\bin\Debug\net6.0\xenlongao.deps.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\bin\Debug\net6.0\xenlongao.runtimeconfig.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\bin\Debug\net6.0\xenlongao.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\bin\Debug\net6.0\ref\xenlongao.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\bin\Debug\net6.0\xenlongao.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.csproj.AssemblyReference.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.AssemblyInfoInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.AssemblyInfo.cs
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.csproj.CoreCompileInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\ref\xenlongao.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\xenlongao\obj\Debug\net6.0\xenlongao.genruntimeconfig.cache

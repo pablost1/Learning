@@ -1,0 +1,15 @@
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\bin\Debug\net6.0\vai_ter_copa.exe
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\bin\Debug\net6.0\vai_ter_copa.deps.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\bin\Debug\net6.0\vai_ter_copa.runtimeconfig.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\bin\Debug\net6.0\vai_ter_copa.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\bin\Debug\net6.0\ref\vai_ter_copa.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\bin\Debug\net6.0\vai_ter_copa.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.csproj.AssemblyReference.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.AssemblyInfoInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.AssemblyInfo.cs
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.csproj.CoreCompileInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\ref\vai_ter_copa.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\vai_ter_copa\obj\Debug\net6.0\vai_ter_copa.genruntimeconfig.cache

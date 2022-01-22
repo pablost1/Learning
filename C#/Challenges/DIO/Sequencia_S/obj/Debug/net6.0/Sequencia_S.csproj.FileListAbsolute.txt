@@ -1,0 +1,15 @@
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\bin\Debug\net6.0\Sequencia_S.exe
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\bin\Debug\net6.0\Sequencia_S.deps.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\bin\Debug\net6.0\Sequencia_S.runtimeconfig.json
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\bin\Debug\net6.0\Sequencia_S.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\bin\Debug\net6.0\ref\Sequencia_S.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\bin\Debug\net6.0\Sequencia_S.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.csproj.AssemblyReference.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.AssemblyInfoInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.AssemblyInfo.cs
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.csproj.CoreCompileInputs.cache
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\ref\Sequencia_S.dll
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.pdb
+C:\Users\pablo_8gxofc2\training\csharp\dio_challenges\Sequencia_S\obj\Debug\net6.0\Sequencia_S.genruntimeconfig.cache
