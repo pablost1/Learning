@@ -1,0 +1,15 @@
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\bin\Debug\net6.0\Ho_Ho_Ho.exe
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\bin\Debug\net6.0\Ho_Ho_Ho.deps.json
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\bin\Debug\net6.0\Ho_Ho_Ho.runtimeconfig.json
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\bin\Debug\net6.0\Ho_Ho_Ho.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\bin\Debug\net6.0\ref\Ho_Ho_Ho.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\bin\Debug\net6.0\Ho_Ho_Ho.pdb
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.csproj.AssemblyReference.cache
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.AssemblyInfoInputs.cache
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.AssemblyInfo.cs
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.csproj.CoreCompileInputs.cache
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\ref\Ho_Ho_Ho.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.pdb
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Ho_Ho_Ho\Ho_Ho_Ho\obj\Debug\net6.0\Ho_Ho_Ho.genruntimeconfig.cache

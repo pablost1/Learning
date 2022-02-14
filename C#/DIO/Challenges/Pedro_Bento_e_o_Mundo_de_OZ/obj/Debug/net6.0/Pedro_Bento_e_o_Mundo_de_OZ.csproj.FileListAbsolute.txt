@@ -1,0 +1,15 @@
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.csproj.AssemblyReference.cache
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.AssemblyInfoInputs.cache
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.AssemblyInfo.cs
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.csproj.CoreCompileInputs.cache
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\bin\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.exe
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\bin\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.deps.json
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\bin\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.runtimeconfig.json
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\bin\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\bin\Debug\net6.0\ref\Pedro_Bento_e_o_Mundo_de_OZ.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\bin\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.pdb
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\ref\Pedro_Bento_e_o_Mundo_de_OZ.dll
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.pdb
+C:\Users\pablo_8gxofc2\workspace\Learning\C#\DIO\Challenges\Pedro_Bento_e_o_Mundo_de_OZ\obj\Debug\net6.0\Pedro_Bento_e_o_Mundo_de_OZ.genruntimeconfig.cache

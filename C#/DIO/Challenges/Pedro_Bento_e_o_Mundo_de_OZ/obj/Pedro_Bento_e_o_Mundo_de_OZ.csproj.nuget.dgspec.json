@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pablo_8gxofc2\\workspace\\Learning\\C#\\DIO\\Challenges\\Pedro_Bento_e_o_Mundo_de_OZ\\Pedro_Bento_e_o_Mundo_de_OZ.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pablo_8gxofc2\\workspace\\Learning\\C#\\DIO\\Challenges\\Pedro_Bento_e_o_Mundo_de_OZ\\Pedro_Bento_e_o_Mundo_de_OZ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pablo_8gxofc2\\workspace\\Learning\\C#\\DIO\\Challenges\\Pedro_Bento_e_o_Mundo_de_OZ\\Pedro_Bento_e_o_Mundo_de_OZ.csproj",
+        "projectName": "Pedro_Bento_e_o_Mundo_de_OZ",
+        "projectPath": "C:\\Users\\pablo_8gxofc2\\workspace\\Learning\\C#\\DIO\\Challenges\\Pedro_Bento_e_o_Mundo_de_OZ\\Pedro_Bento_e_o_Mundo_de_OZ.csproj",
+        "packagesPath": "C:\\Users\\pablo_8gxofc2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pablo_8gxofc2\\workspace\\Learning\\C#\\DIO\\Challenges\\Pedro_Bento_e_o_Mundo_de_OZ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pablo_8gxofc2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
